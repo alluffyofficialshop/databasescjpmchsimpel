@@ -1,6 +1,10 @@
 {
-  "6283187298928": {
-    "name": "luffyy",
-    "password": "luffyy"
+  "data": [
+    "6283826081005",
+    "6283187298928"
+  ],
+  "stats": {
+    "totalRequests": 0,
+    "lastUpdated": "2025-06-14T14:28:43.710Z"
   }
 }

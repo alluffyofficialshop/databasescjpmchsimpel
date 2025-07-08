@@ -1,29 +1,7 @@
 {
-  "data": [
-    "6283826081005",
-    "62881026383373",
-    "6283890915284",
-    "6285606164961",
-    "6283187298928"
-  ],
+  "data": [],
   "stats": {
     "totalRequests": 0,
     "lastUpdated": "2025-06-14T14:28:43.710Z"
-  },
-  "6283890915284": {
-    "name": "Luffy",
-    "password": "luffy"
-  },
-  "6285771255306": {
-    "name": "botgii",
-    "password": "giimods"
-  },
-  "628982027899": {
-    "name": "andhika",
-    "password": "andhika"
-  },
-  "6285704267214": {
-    "name": "buyerluffy",
-    "password": "buyerluffy"
   }
 }
